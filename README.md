@@ -1,6 +1,8 @@
 ## Getting Started
 
-Make sure to be running the shadeform-frontend code first. Look at the frontend README to launch the client.
+Make sure to be running the shadeform-frontend code first from this repo: https://github.com/sagarsaija/shadeform-frontend.
+
+Look at the frontend README to launch the client.
 
 Go to https://platform.shadeform.ai/settings/api and create a shadeform API key.
 
